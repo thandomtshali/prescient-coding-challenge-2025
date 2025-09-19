@@ -2,6 +2,6 @@
 
 # Welcome!
 
-Welcome to the Prescient Coding Challenge 2024!
+Welcome to the Prescient Coding Challenge 2025!
 
-## (2025-06-11) Updates to follow!
+## (2025-09-19) I hope you're excited for tomorrow!
