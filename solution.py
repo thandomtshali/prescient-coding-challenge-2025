@@ -158,7 +158,7 @@ for i in range(len(df_signals)):
             bounds=bounds, 
             constraints=constraints,
             method='SLSQP',
-            options={'maxiter': 50, 'ftol': 1e-4}
+            options={'maxiter': 100, 'ftol': 1e-4}
         )
         
         if result.success and 0.999 <= np.sum(result.x) <= 1.001:
